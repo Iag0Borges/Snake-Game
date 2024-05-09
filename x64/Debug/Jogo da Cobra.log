@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\PC\Desktop\Visual Studio\Jogo da Cobra\FileName.cpp(91,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Jogo da Cobra\FileName.cpp(91,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Jogo da Cobra\FileName.cpp(96,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\Desktop\Visual Studio\Jogo da Cobra\FileName.cpp(97,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Jogo da Cobra.vcxproj -> C:\Users\PC\Desktop\Visual Studio\Jogo da Cobra\x64\Debug\Jogo da Cobra.exe
